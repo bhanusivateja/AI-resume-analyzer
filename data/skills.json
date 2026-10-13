@@ -1,0 +1,50 @@
+{
+  "Programming Languages": [
+    "Python", "Java", "C++", "C", "C#", "JavaScript", "TypeScript",
+    "Go", "Golang", "Rust", "Ruby", "PHP", "Swift", "Kotlin", "R",
+    "MATLAB", "Scala", "Dart", "Shell", "Bash", "PowerShell", "Perl"
+  ],
+  "Web & Frameworks": [
+    "React", "React.js", "Next.js", "Vue.js", "Vue", "Angular", "Node.js", "Node",
+    "Express.js", "Express", "Django", "FastAPI", "Flask", "Spring Boot", "Spring",
+    "ASP.NET", ".NET", "Ruby on Rails", "Laravel", "GraphQL", "REST API", "RESTful APIs",
+    "HTML5", "HTML", "CSS3", "CSS", "Tailwind CSS", "Bootstrap", "Redux", "Webpack",
+    "Vite", "WebSockets", "gRPC"
+  ],
+  "AI & Machine Learning": [
+    "Machine Learning", "Deep Learning", "Artificial Intelligence", "Neural Networks",
+    "Computer Vision", "Natural Language Processing", "NLP", "Large Language Models",
+    "LLM", "LLMs", "Generative AI", "GenAI", "PyTorch", "TensorFlow", "Keras",
+    "Scikit-learn", "Sklearn", "Pandas", "NumPy", "SciPy", "OpenCV", "Hugging Face",
+    "Transformers", "LangChain", "LlamaIndex", "BERT", "GPT", "RAG", "Prompt Engineering",
+    "XGBoost", "LightGBM", "CatBoost", "NLTK", "SpaCy", "Matplotlib", "Seaborn",
+    "Plotly", "Feature Engineering", "Model Evaluation", "MLOps", "MLflow", "Weights & Biases",
+    "Data Preprocessing", "Statistical Analysis"
+  ],
+  "Cloud & DevOps": [
+    "AWS", "Amazon Web Services", "Microsoft Azure", "Azure", "Google Cloud Platform", "GCP",
+    "Google Cloud", "Docker", "Kubernetes", "K8s", "CI/CD", "Continuous Integration",
+    "GitHub Actions", "GitLab CI", "Jenkins", "Terraform", "Ansible", "Linux", "Ubuntu",
+    "Helm", "Serverless", "AWS Lambda", "CloudFormation", "Prometheus", "Grafana",
+    "Nginx", "Apache", "Kafka", "RabbitMQ", "Microservices", "Cloud Architecture"
+  ],
+  "Databases & Data Engineering": [
+    "SQL", "PostgreSQL", "Postgres", "MySQL", "MongoDB", "Redis", "SQLite", "Oracle",
+    "Cassandra", "Elasticsearch", "Snowflake", "Databricks", "Apache Spark", "Spark",
+    "Apache Hadoop", "Hadoop", "Airflow", "ETL", "Data Pipelines", "BigQuery",
+    "DynamoDB", "Firebase", "Supabase", "Neo4j", "SQL Server"
+  ],
+  "Tools & Developer Practices": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "Jira", "Confluence", "Postman",
+    "Swagger", "Docker Desktop", "VS Code", "IntelliJ IDEA", "Linux CLI",
+    "Agile", "Scrum", "Kanban", "Test-Driven Development", "TDD", "Unit Testing",
+    "PyTest", "Jest", "JUnit", "Code Review", "Object-Oriented Programming", "OOP",
+    "Design Patterns", "System Design", "Microservices Architecture", "Clean Architecture"
+  ],
+  "Soft Skills & Core Competencies": [
+    "Problem Solving", "Critical Thinking", "Analytical Skills", "Effective Communication",
+    "Team Collaboration", "Leadership", "Project Management", "Time Management",
+    "Adaptability", "Mentorship", "Cross-functional Leadership", "Stakeholder Management",
+    "Presentation Skills", "Documentation", "Ownership", "Attention to Detail"
+  ]
+}

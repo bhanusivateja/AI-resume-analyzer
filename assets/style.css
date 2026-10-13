@@ -1,0 +1,163 @@
+/* Custom Modern Dark Theme Styling for AI Resume Analyzer */
+
+/* Card Containers */
+.dashboard-card {
+    background: linear-gradient(135deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.8) 100%);
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+}
+
+.hero-banner {
+    background: linear-gradient(135deg, #1E1B4B 0%, #0F172A 50%, #0B132B 100%);
+    border: 1px solid rgba(99, 102, 241, 0.35);
+    border-radius: 16px;
+    padding: 28px;
+    margin-bottom: 24px;
+    box-shadow: 0 10px 30px rgba(79, 70, 229, 0.15);
+}
+
+.metric-card {
+    background: #111827;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 16px;
+    text-align: center;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.metric-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(99, 102, 241, 0.4);
+}
+
+.metric-value {
+    font-size: 28px;
+    font-weight: 700;
+    color: #6366F1;
+    margin-bottom: 4px;
+}
+
+.metric-label {
+    font-size: 13px;
+    color: #94A3B8;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Skill Tags */
+.skill-tag {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 3px;
+    transition: all 0.2s ease;
+}
+
+.skill-tag-matched {
+    background: rgba(16, 185, 129, 0.15);
+    color: #34D399;
+    border: 1px solid rgba(16, 185, 129, 0.35);
+}
+
+.skill-tag-missing {
+    background: rgba(239, 68, 68, 0.15);
+    color: #F87171;
+    border: 1px solid rgba(239, 68, 68, 0.35);
+}
+
+.skill-tag-extra {
+    background: rgba(99, 102, 241, 0.15);
+    color: #A5B4FC;
+    border: 1px solid rgba(99, 102, 241, 0.35);
+}
+
+/* Priority Badges */
+.badge-priority-high {
+    background: rgba(239, 68, 68, 0.2);
+    color: #EF4444;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    border: 1px solid rgba(239, 68, 68, 0.4);
+}
+
+.badge-priority-med {
+    background: rgba(245, 158, 11, 0.2);
+    color: #F59E0B;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    border: 1px solid rgba(245, 158, 11, 0.4);
+}
+
+.badge-priority-low {
+    background: rgba(16, 185, 129, 0.2);
+    color: #10B981;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    border: 1px solid rgba(16, 185, 129, 0.4);
+}
+
+/* Recommendation Card */
+.rec-box {
+    background: #0F172A;
+    border-left: 4px solid #6366F1;
+    border-radius: 0 8px 8px 0;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    border-right: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.rec-box-high {
+    border-left-color: #EF4444;
+}
+
+.rec-box-medium {
+    border-left-color: #F59E0B;
+}
+
+.rec-box-low {
+    border-left-color: #10B981;
+}
+
+/* Bullet Assistant Suggestions */
+.bullet-card {
+    background: #131D31;
+    border: 1px solid rgba(99, 102, 241, 0.25);
+    border-radius: 8px;
+    padding: 14px;
+    margin-bottom: 10px;
+}
+
+.bullet-title {
+    color: #818CF8;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+}
+
+.bullet-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13.5px;
+    color: #E2E8F0;
+    background: rgba(0, 0, 0, 0.25);
+    padding: 8px 12px;
+    border-radius: 6px;
+    line-height: 1.5;
+}
